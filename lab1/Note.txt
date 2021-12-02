@@ -1,0 +1,6 @@
+[Finished]5.2Flipping an Image
+
+[Finished]5.3 Negating Image Pixels
+
+[Finished]5.4 Separating Color Channels
+

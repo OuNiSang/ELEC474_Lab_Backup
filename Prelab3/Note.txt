@@ -1,0 +1,5 @@
+[Finished]1. General Edge Detection method correct and fully functional 
+
+[Finished]2. Comparison metric correct
+
+[Finished]3. Plot of comparison metric correct

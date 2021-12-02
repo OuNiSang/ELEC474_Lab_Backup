@@ -1,0 +1,4 @@
+[Finished]Flood fill method correct and fully functional
+
+[Finished]Homogeneity criterion correct and threshold valueadjustable with trackbar
+
