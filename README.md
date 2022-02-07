@@ -80,5 +80,5 @@ Detail can check the report as .docx file or ./Project/Deliverable/D2/Project_Re
 
 Stich version 1 |   Stich version 2 (best) |     Stich version 2 | Stich version 3 |
   --------| --------|--------| --------|
-![img](project/Deliverable/D5/Extra/V1_Result_Time.png)| ![img](project/Deliverable/D5/Extra/V2_Result_Time.png)|![img](project/Deliverable/D5/Extra/V2.5_Result_Time.png)|![img](project/Deliverable/D5/Extra/V3_Result_Time.png)|
-![img](project/Deliverable/D5/Extra/V1_Result.png)| ![img](project/Deliverable/D5/Extra/V2_Result.png)|![img](project/Deliverable/D5/Extra/V2.5_Result.png)|![img](project/Deliverable/D5/Extra/V3_Result.png)|
+![img](Project/Deliverable/D5/Extra/V1_Result_Time.png)| ![img](Project/Deliverable/D5/Extra/V2_Result_Time.png)|![img](Project/Deliverable/D5/Extra/V2.5_Result_Time.png)|![img](Project/Deliverable/D5/Extra/V3_Result_Time.png)|
+![img](Project/Deliverable/D5/Extra/V1_Result.png)| ![img](Project/Deliverable/D5/Extra/V2_Result.png)|![img](Project/Deliverable/D5/Extra/V2.5_Result.png)|![img](Project/Deliverable/D5/Extra/V3_Result.png)|
